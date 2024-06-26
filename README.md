@@ -6,9 +6,6 @@ We provide a framework for model-based assessment of target engagement response 
 2. mTPA_local (Tm).ipynb : Binary Decision tree-based ML model based on PK data for membrane-bound receptors. <br />
 3. mTPA_local (3-label).ipynb : Three-label Decision tree-based ML classifier based on PK data. <br /> 
 
-# in silico PK data generation
-Included mPBPK model scripts to generate PK data based on in silico candidate properties. More information on the mPBPK simulations can be found in the folder - in silico PK data generation. <br />
-
 # Dependencies 
 Package dependencies in Python: <br />
 Pandas, sklearn, numpy, matplotlib, joblib, pickle, imblearn, scipy <br />
