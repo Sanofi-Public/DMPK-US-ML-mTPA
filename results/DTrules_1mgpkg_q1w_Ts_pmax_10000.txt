@@ -1,0 +1,27 @@
+if (KD <= 22.985) and (T0 <= 29.239) and (KD <= 6.132) and (T0 <= 23.647) and (KD <= 5.463) then class: optimal (proba: 100.0%) | based on 3,272 samples
+if (KD > 22.985) and (KD > 29.096) and (KD > 32.499) then class: non-optimal (proba: 100.0%) | based on 2,306 samples
+if (KD <= 22.985) and (T0 > 29.239) and (thalf <= 3.891) and (T0 > 38.072) and (thalf <= 2.027) then class: non-optimal (proba: 100.0%) | based on 793 samples
+if (KD <= 22.985) and (T0 <= 29.239) and (KD > 6.132) and (thalf <= 27.597) and (T0 <= 12.038) then class: optimal (proba: 97.76%) | based on 357 samples
+if (KD <= 22.985) and (T0 > 29.239) and (thalf > 3.891) and (T0 > 185.591) and (T0 > 218.371) then class: non-optimal (proba: 100.0%) | based on 313 samples
+if (KD <= 22.985) and (T0 > 29.239) and (thalf > 3.891) and (T0 <= 185.591) and (KD <= 4.969) then class: optimal (proba: 87.83%) | based on 263 samples
+if (KD <= 22.985) and (T0 > 29.239) and (thalf <= 3.891) and (T0 > 38.072) and (thalf > 2.027) then class: non-optimal (proba: 92.93%) | based on 99 samples
+if (KD <= 22.985) and (T0 <= 29.239) and (KD > 6.132) and (thalf > 27.597) and (thalf > 73.231) then class: non-optimal (proba: 98.96%) | based on 96 samples
+if (KD > 22.985) and (KD <= 29.096) and (thalf > 0.713) and (KD > 23.607) then class: non-optimal (proba: 100.0%) | based on 88 samples
+if (KD <= 22.985) and (T0 > 29.239) and (thalf <= 3.891) and (T0 <= 38.072) and (thalf <= 0.953) then class: non-optimal (proba: 92.31%) | based on 65 samples
+if (KD > 22.985) and (KD > 29.096) and (KD <= 32.499) and (thalf > 0.07) then class: non-optimal (proba: 100.0%) | based on 59 samples
+if (KD <= 22.985) and (T0 <= 29.239) and (KD > 6.132) and (thalf > 27.597) and (thalf <= 73.231) then class: non-optimal (proba: 64.41%) | based on 59 samples
+if (KD <= 22.985) and (T0 > 29.239) and (thalf > 3.891) and (T0 <= 185.591) and (KD > 4.969) then class: non-optimal (proba: 90.0%) | based on 50 samples
+if (KD <= 22.985) and (T0 <= 29.239) and (KD <= 6.132) and (T0 > 23.647) and (thalf > 0.273) then class: optimal (proba: 95.83%) | based on 48 samples
+if (KD <= 22.985) and (T0 <= 29.239) and (KD <= 6.132) and (T0 <= 23.647) and (KD > 5.463) then class: optimal (proba: 90.7%) | based on 43 samples
+if (KD <= 22.985) and (T0 > 29.239) and (thalf > 3.891) and (T0 > 185.591) and (T0 <= 218.371) then class: non-optimal (proba: 87.81%) | based on 41 samples
+if (KD <= 22.985) and (T0 <= 29.239) and (KD > 6.132) and (thalf <= 27.597) and (T0 > 12.038) then class: non-optimal (proba: 63.64%) | based on 33 samples
+if (KD > 22.985) and (KD <= 29.096) and (thalf <= 0.713) and (T0 <= 5.57) and (thalf <= 0.222) then class: optimal (proba: 100.0%) | based on 31 samples
+if (KD > 22.985) and (KD <= 29.096) and (thalf <= 0.713) and (T0 > 5.57) and (T0 > 7.058) then class: non-optimal (proba: 100.0%) | based on 23 samples
+if (KD <= 22.985) and (T0 <= 29.239) and (KD <= 6.132) and (T0 > 23.647) and (thalf <= 0.273) then class: non-optimal (proba: 89.48%) | based on 19 samples
+if (KD <= 22.985) and (T0 > 29.239) and (thalf <= 3.891) and (T0 <= 38.072) and (thalf > 0.953) then class: optimal (proba: 80.0%) | based on 10 samples
+if (KD > 22.985) and (KD <= 29.096) and (thalf <= 0.713) and (T0 <= 5.57) and (thalf > 0.222) then class: optimal (proba: 75.0%) | based on 8 samples
+if (KD > 22.985) and (KD <= 29.096) and (thalf > 0.713) and (KD <= 23.607) and (thalf > 2.171) then class: non-optimal (proba: 100.0%) | based on 7 samples
+if (KD > 22.985) and (KD > 29.096) and (KD <= 32.499) and (thalf <= 0.07) and (T0 <= 5.011) then class: optimal (proba: 100.0%) | based on 6 samples
+if (KD > 22.985) and (KD <= 29.096) and (thalf > 0.713) and (KD <= 23.607) and (thalf <= 2.171) then class: optimal (proba: 75.0%) | based on 4 samples
+if (KD > 22.985) and (KD > 29.096) and (KD <= 32.499) and (thalf <= 0.07) and (T0 > 5.011) then class: non-optimal (proba: 100.0%) | based on 3 samples
+if (KD > 22.985) and (KD <= 29.096) and (thalf <= 0.713) and (T0 > 5.57) and (T0 <= 7.058) then class: non-optimal (proba: 100.0%) | based on 1 samples

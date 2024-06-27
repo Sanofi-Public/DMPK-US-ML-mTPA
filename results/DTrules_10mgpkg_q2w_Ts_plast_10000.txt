@@ -1,0 +1,18 @@
+if (KD <= 82.004) and (T0 <= 24.318) and (T0 <= 20.488) and (KD <= 74.608) and (KD <= 61.093) then class: optimal (proba: 100.0%) | based on 4,110 samples
+if (KD > 82.004) and (KD > 82.716) then class: non-optimal (proba: 100.0%) | based on 2,545 samples
+if (KD <= 82.004) and (T0 > 24.318) and (thalf <= 35.448) and (thalf <= 6.543) and (T0 > 32.389) then class: non-optimal (proba: 99.31%) | based on 1,729 samples
+if (KD <= 82.004) and (T0 > 24.318) and (thalf <= 35.448) and (thalf > 6.543) and (T0 > 94.598) then class: non-optimal (proba: 91.61%) | based on 286 samples
+if (KD <= 82.004) and (T0 > 24.318) and (thalf > 35.448) and (T0 <= 419.015) and (KD <= 76.27) then class: optimal (proba: 97.86%) | based on 234 samples
+if (KD <= 82.004) and (T0 > 24.318) and (thalf <= 35.448) and (thalf <= 6.543) and (T0 <= 32.389) then class: non-optimal (proba: 76.67%) | based on 150 samples
+if (KD <= 82.004) and (T0 > 24.318) and (thalf <= 35.448) and (thalf > 6.543) and (T0 <= 94.598) then class: optimal (proba: 93.52%) | based on 108 samples
+if (KD <= 82.004) and (T0 <= 24.318) and (T0 <= 20.488) and (KD <= 74.608) and (KD > 61.093) then class: optimal (proba: 96.7%) | based on 91 samples
+if (KD <= 82.004) and (T0 <= 24.318) and (T0 > 20.488) and (thalf > 0.805) then class: optimal (proba: 100.0%) | based on 50 samples
+if (KD <= 82.004) and (T0 > 24.318) and (thalf > 35.448) and (T0 > 419.015) and (thalf > 84.4) then class: optimal (proba: 95.92%) | based on 49 samples
+if (KD <= 82.004) and (T0 > 24.318) and (thalf > 35.448) and (T0 > 419.015) and (thalf <= 84.4) then class: non-optimal (proba: 91.67%) | based on 48 samples
+if (KD <= 82.004) and (T0 <= 24.318) and (T0 <= 20.488) and (KD > 74.608) and (T0 <= 3.432) then class: optimal (proba: 100.0%) | based on 27 samples
+if (KD <= 82.004) and (T0 <= 24.318) and (T0 > 20.488) and (thalf <= 0.805) and (KD <= 1.106) then class: non-optimal (proba: 95.45%) | based on 22 samples
+if (KD <= 82.004) and (T0 <= 24.318) and (T0 > 20.488) and (thalf <= 0.805) and (KD > 1.106) then class: optimal (proba: 76.92%) | based on 13 samples
+if (KD <= 82.004) and (T0 <= 24.318) and (T0 <= 20.488) and (KD > 74.608) and (T0 > 3.432) then class: non-optimal (proba: 100.0%) | based on 10 samples
+if (KD <= 82.004) and (T0 > 24.318) and (thalf > 35.448) and (T0 <= 419.015) and (KD > 76.27) then class: non-optimal (proba: 100.0%) | based on 3 samples
+if (KD > 82.004) and (KD <= 82.716) and (T0 > 28.266) then class: non-optimal (proba: 100.0%) | based on 2 samples
+if (KD > 82.004) and (KD <= 82.716) and (T0 <= 28.266) then class: optimal (proba: 100.0%) | based on 1 samples
