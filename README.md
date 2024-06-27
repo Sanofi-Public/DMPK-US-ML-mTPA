@@ -7,7 +7,7 @@ We provide a framework for model-based assessment of target engagement response 
 3. mTPA_local (3-label).ipynb : Three-label Decision tree-based ML classifier based on PK data. <br /> 
 
 # Dependencies 
-Package dependencies in Python: <br />
+Package dependencies in Python (version 3.8.3): <br />
 Pandas, sklearn, numpy, matplotlib, joblib, pickle, imblearn, scipy <br />
 
 # Instructions for Use
